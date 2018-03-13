@@ -1,0 +1,20 @@
+colors:{
+	primary: { // Blue_400
+		default: #42a5f5,
+		light: #80d6ff,
+		dark : #0077c2,
+		text: #000000
+	},
+	secondary: { // Blue_900
+		default: #0d47a1,
+		light: #5472d3,
+		dark: #002171,
+		text: #ffffff
+	},
+	accent: { // Red_700
+		default: #d32f2f,
+		light: #ff6659,
+		dark: #9a0007,
+		text: #ffffff
+	}
+}
